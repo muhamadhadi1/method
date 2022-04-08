@@ -1,6 +1,6 @@
 using System;
 
-namespace dedemethod
+namespace method
 {
   public class Numbers
   {
